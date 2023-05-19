@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1209.4488 506.45671"
+   width="320mm"
+   height="134mm"
+   version="1.1"
+   id="svg9166"
+   sodipodi:docname="prek-podpora.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9168"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.78616091"
+     inkscape:cx="508.16569"
+     inkscape:cy="338.35312"
+     inkscape:window-width="1298"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9162"
+     inkscape:document-units="mm" />
+  <desc
+     id="desc8435">prek-vykres.DXF - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs8450">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path8437" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path8440" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path8442" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path8444" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g9162">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 594.60078,214.57078 h 23.81"
+       id="path9106-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 618.41078,214.57078 v -23.81"
+       id="path9108-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 618.41078,190.76078 h -23.81"
+       id="path9110-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 594.60078,190.76078 v 23.81"
+       id="path9112-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="M 200.77078,50.920776 H 39.580776"
+       id="path9114-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 200.77078,39.580776 v 11.34"
+       id="path9116-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 256.33078,39.580776 h -55.56"
+       id="path9118-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 256.33078,50.920776 v -11.34"
+       id="path9120-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 578.73078,50.920776 h -322.4"
+       id="path9122-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 578.73078,39.580776 v 11.34"
+       id="path9124-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 634.28078,39.580776 h -55.55"
+       id="path9126-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 634.28078,50.920776 v -11.34"
+       id="path9128-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 956.68078,50.920776 h -322.4"
+       id="path9130-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 956.68078,39.580776 v 11.34"
+       id="path9132-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="M 1012.2408,39.580776 H 956.68078"
+       id="path9134-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 1012.2408,50.920776 v -11.34"
+       id="path9136-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 1173.4308,50.920776 h -161.19"
+       id="path9138-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="M 1173.4308,405.06178 V 50.920776"
+       id="path9140-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 1161.5308,405.06178 h 11.9"
+       id="path9142-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 1161.5308,428.87278 v -23.811"
+       id="path9144-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 1173.4308,428.87278 h -11.9"
+       id="path9146-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="m 1173.4308,459.10878 v -30.236"
+       id="path9148-5" />
+    <path
+       d="m 1086.2524,438.18987 a 377.95276,377.95276 0 0 0 87.1821,20.9188"
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       id="path9150-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.571;stroke-linecap:round"
+       d="M 39.580776,50.920776 1086.2508,438.18978"
+       id="path9152-5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="FORMAT"
+     id="g9164" />
+</svg>
