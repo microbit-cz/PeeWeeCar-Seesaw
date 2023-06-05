@@ -13,4 +13,4 @@ This 3D printed seesaw is made for being used as a obstacle for Micro:Bit cars. 
 
 ## How to Craft
 
-1. Print the [.STL files][..\STL files] (each print the number of times that is written at the end of each file (for example: Supports_LLx2.stl)
+1. Print the [.STL files](..\STL files) (each print the number of times that is written at the end of each file (for example: Supports_LLx2.stl)
