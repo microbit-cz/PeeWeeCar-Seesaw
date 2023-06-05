@@ -13,4 +13,12 @@ This 3D printed seesaw is made for being used as a obstacle for Micro:Bit cars. 
 
 ## How to Craft
 
-1. Print the [STL files](../STL_files) (each print the number of times that is written at the end of each file (for example: Supports_LLx2.stl)
+1. Print the [STL files](STL_files) (each print the number of times that is written at the end of each file (for example: 'Support-LLx2.STL' print 2×)
+2. Print the BoltTemplate.svg on papers, it will greatly help you finding the right spots for preparing holes for your bolts
+3. Place the printed papers in the middle of your plywood and mark the spots for you to drill out
+4. Once drilled out place the nuts in the holes on top of the 3D printed supports and slightly apply heat to embed and melt in the bolts so they stay fixed in position
+5. Assemble the supports and connect them with the plywood using the bolts as shown [here]()
+6. If needed you can use the ramps for either [3 mm](STL_files/3mm-ramp.STL) or [4 mm](STL_files/4mm-ramp.STL) thick plywood as shown [here]()
+
+!(images/)
+!(images/)
