@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)
+[Czech](README.cs.md)
+
+# Seesaw for Micro:Bit car
+This 3D printed seesaw is made for being used as a obstacle for Micro:Bit cars. The car will have to drive up the slope and outweigh the seesaw so it falls over and the car can go on.
+
+## Materials and Cost:
+- Plywood (lenght: 600 mm; min. width: 218 mm; thickness: 3 mm or 4 mm)
+- PLA filament
+- 16 bolts M3 of length between 8 mm and 12 mm
+- 16 nuts M3
+
+- Cost: ~14 USD/350 CZK
+
+## How to Craft
+
+1. Print the [.STL files](STL files) (each print the number of times that is written at the end of each file (for example: Supports_LLx2.stl)
