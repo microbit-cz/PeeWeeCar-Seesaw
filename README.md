@@ -4,12 +4,15 @@
 This 3D printed seesaw is made for being used as a obstacle for Micro:Bit cars. The car will have to drive up the slope and outweigh the seesaw so it falls over and the car can go on.
 !(images/)
 
-## Materials and Cost:
+## Materials, Tools and Cost:
 - [Plywood (lenght: 600 mm; min. width: 218 mm; thickness: 3 mm or 4 mm)](https://www.bauhaus.cz/preklizka-22390413)
 - [PLA filament](https://www.aliexpress.com/item/4000114755159.html?spm=a2g0o.productlist.main.17.2e0466f00sQgdl&algo_pvid=ac7817f2-3742-4b51-82fc-4d611a10a58c&algo_exp_id=ac7817f2-3742-4b51-82fc-4d611a10a58c-8&pdp_npi=3%40dis%21USD%2162.91%2137.52%21%21%21%21%21%402100bb6416860029785611094d077e%2112000023989298655%21sea%21CZ%210&curPageLogUid=7ShHP0O5lwcL)
 - 16 bolts M3 of length between 8 mm and 12 mm
 - 16 nuts M3
 !(images/)
+Tools
+- Drill
+- Soldering iron (or other heating tool)
 - Cost: ~14 USD/350 CZK per piece
 
 ## How to Craft
