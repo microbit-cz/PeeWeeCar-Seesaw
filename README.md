@@ -34,5 +34,7 @@ B1. Put the lead marbles in the tube and close the entrances with anything you s
 B2. Between the two middle supports on the sides install the tube using rubber bands for temporary use or using glue or something simular for long term use
 8. If needed you can use the ramps for either [3 mm](STL_files/3mm-ramp.STL) or [4 mm](STL_files/4mm-ramp.STL) thick plywood
 
+Construction of the skelet:
 ![konstrukce](images/supports.gif)
+Installing of the tube:
 ![tube](images/tube.gif)
