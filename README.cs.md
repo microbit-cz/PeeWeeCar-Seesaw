@@ -8,7 +8,7 @@ Tato 3D tištěná houpačka je určena k použití jako překážka pro autíč
 ## Materiály, Nástroje a Cena:
 ### Materiály
 - [Překližka (délka: 600 mm; min. šířka: 218 mm; tloušťka: 3 mm nebo 4 mm)](https://www.bauhaus.cz/preklizka-22390413)
-- [PLA filament](https://www.aliexpress.com/item/4000114755159.html?spm=a2g0o.productlist.main.17.2e0466f00sQgdl&algo_pvid=ac7817f2-3742-4b51-82fc-4d611a10a58c&algo_exp_id=ac7817f2-3742-4b51-82fc-4d611a10a58c-8&pdp_npi=3%40dis%21USD%2162.91%2137.52%21%21%21%21%21%402100bb6416860029785611094d077e%2112000023989298655%21sea%21CZ%210&curPageLogUid=7ShHP0O5lwcL)
+- Filament do 3D tiskárny
 - 16 šroubů M3 délky mezi 8 mm a 12 mm
 - 16 matic M3
 - - Závaží (pokud chcete, aby se houpačka vždy vracela na původní stranu (Jak to postavit - verze A))
