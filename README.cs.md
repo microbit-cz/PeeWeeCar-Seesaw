@@ -30,7 +30,7 @@ Tato 3D tištěná houpačka je určena k použití jako překážka pro autíč
 6. Vyberte si verzi A nebo verzi B</br>
 A. Přidělejte malé závaží na jednu stranu houpačky</br>
 B1. Vložte olovněné kuličky do trubky a uzavřete otvory čímkoli si myslíte že by bylo vhodné (například korek)</br>
-B2. Mezi dvěma postraními příčnicemi přidělejte trubici pomocí gumiček při krátkodobém používání nebo použijte lepidlo nebo něco podobného při dlouhodobějším použití
+B2. Mezi dvěma postranními příčnicemi přidělejte trubici pomocí gumiček při krátkodobém používání nebo použijte lepidlo nebo něco podobného při dlouhodobějším použití
 7. V případě potřeby můžete rampy použít buď pro [3 mm](STL_files/3mm-ramp.STL) nebo [4 mm](STL_files/4mm-ramp.STL) tlustou překližku
 
 Sestavení konstrukce:
